@@ -1,4 +1,13 @@
-## Hi there 👋
+#Hai semua!! ^^
+
+Saya Alicia Bintoro.<br>
+
+Saat ini, saya masih duduk di bangku kelas dua Sekolah Menengah Kejuruan Negeri 1 Cirebon.<br>
+
+Namun, selama empat bulan ke depan, saya memiliki tambahan tanggung jawab untuk belajar di luar pembelajaran sekolah
+karena telah terdaftar menjadi salah satu peserta terpilih pada Coding Camp Powered By DBS Foundation tahun 2025.<br>
+
+Jika kamu tertarik berkenalan dengan saya, silakan ikuti akun saya [instagram](https://www.instagram.com/aliciabintoro?igsh=bnd1cjZrcXBxMWw1)
 
 <!--
 **albi-chance/albi-chance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
