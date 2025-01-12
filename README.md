@@ -1,4 +1,4 @@
-#Hai semua!! ^^
+## Hai semua
 
 Saya Alicia Bintoro.<br>
 
